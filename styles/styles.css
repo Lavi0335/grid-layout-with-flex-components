@@ -38,6 +38,9 @@ body {
 }
 .icon{
     order: -1;
-    flex-grow: 1;
     align-self: center;
+   padding: 2px;
+}
+p{
+ flex-grow: 1;
 }
